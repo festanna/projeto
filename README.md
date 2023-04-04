@@ -11,8 +11,15 @@
 <body>
 
 <header>
-    <img src="logo.jpg" alt="logo Fernanda St'Anna">
-    <nav>
+
+<div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=festanna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=festanna&layoutcompact&langs_count=168&theme=dark"/>
+</div>
+
+<img src="logo.jpg" alt="logo Fernanda St'Anna">
+
+<nav>
 
 <a>Sobre</a>
 <a>Experiência</a>
