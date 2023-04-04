@@ -28,12 +28,14 @@
 
  <main>
     <section>
+
+<img src="FotoPerfil.jpeg" alt="foto de perfil Fernanda Sant'Anna" style="width: 200px; height:150px;"> 
         <div>
             <h1>Fernanda Sant'Anna</h1>
             <h2>Customer Relationship | IT | Sales Analyst</h2>
             <button>Ver perfil no LinkedIn</button>
         </div>
-<img src="FotoPerfil.jpeg" alt="foto de perfil Fernanda Sant'Anna" style="width: 200px; height:150px;"> 
+
 
 </section>
 
